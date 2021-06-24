@@ -1,0 +1,4 @@
+rootProject.name='EDGE_Box_Client'
+include ':app'
+include ':opencv'
+//include ':modulea'

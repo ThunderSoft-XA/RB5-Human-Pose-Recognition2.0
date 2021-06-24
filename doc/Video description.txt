@@ -1,0 +1,4 @@
+Hello everyone, now I will show you a model of human pose recognition based on RB5. This human pose recognition mode algorithm comes from the open source project openpose.
+ Let me demonstrate this demo. First click on the APP, open the settings, and then add an RTSP Video streaming, click back, now the model has started to load, 
+waiting for initialization, and now you can see that the human body pose has been recognized. The openpose algorithm recognizes 25 key points of the body. 
+We show the human body by connecting the key points to form a skeleton of the human body.
